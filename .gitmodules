@@ -1,0 +1,3 @@
+[submodule "SWE-bench"]
+	path = SWE-bench
+	url = https://github.com/Vishnuanand77/SWE-benchmark-with-doc.git
